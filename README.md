@@ -1,4 +1,4 @@
-# IEYTD2-PC-Port (Shaken, Not VR)
+# IEYTD2-PC-MOD (Shaken, Not VR)
 
 A fan-made MelonLoader mod that lets you play **I Expect You To Die 2: The Spy and the Liar** on PC with a mouse and keyboard, without a VR headset.
 
